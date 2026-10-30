@@ -1,0 +1,6 @@
+{
+  "name": "Prism Browser",
+  "description": "Expressive Material 3 browser with adaptive wallpaper themes, punchy spring animations, audio SFX, and rich haptics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
